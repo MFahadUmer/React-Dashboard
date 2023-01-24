@@ -10,12 +10,13 @@ const Cards = () => {
         return (
           <div className="parentContainer">
             <Card
+              key={id}
               title={card.title}
               color={card.color}
               barValue={card.barValue}
               value={card.value}
               png={card.png}
-              serries={card.series}
+              series={card.series}
             />
           </div>
         );
