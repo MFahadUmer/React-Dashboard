@@ -65,6 +65,7 @@ After you're finished please remove all the comments and instructions!
 > This is a sample react admin dashboard project.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 - **React.JS**
 - **ApexCharts**
 - **MUi**
@@ -95,7 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/MFahadUmer/React-Dashboard)
+- [Live Demo Link](https://MFahadUmer.github.io/React-Dashboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +133,6 @@ Install this project with:
   yarn
 ```
 
-
 ### Usage
 
 To run the project, execute the following command:
@@ -140,6 +140,7 @@ To run the project, execute the following command:
 ```sh
   yarn start
 ```
+
 <!--
 ### Run tests
 
@@ -172,13 +173,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
