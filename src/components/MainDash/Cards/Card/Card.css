@@ -71,6 +71,7 @@
   height: 70vh;
   z-index: 9;
   left: 13rem;
+  top: 4rem;
   border-radius: 1rem;
   display: flex;
   justify-content: space-between;
